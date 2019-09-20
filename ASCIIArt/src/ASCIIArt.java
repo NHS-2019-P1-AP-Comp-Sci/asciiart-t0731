@@ -17,11 +17,57 @@
 // YOU CODE HERE :) 
 
 public class ASCIIArt {
-	public static void main (String [] args) {
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
+	public static void arm () {
+		System.out.println("       |  |                   |  |       ");
 	}
-}
+	public static void bod () {
+		System.out.println("            ^               ^               ");
+	}
+	public static void fur () {
+		System.out.println("           /                 \\");
+	}
+	public static void leg () {
+		System.out.println("            (   )      (   )       ");
+	}
+	public static void feet () {
+		System.out.println("            |   |      |   |       ");
+	}
+	public static void main (String [] args) {
+		System.out.println("_______AAAA___________________AAAA_______");
+		System.out.println("       VVVV                   VVVV       ");
+		System.out.println("       (  )                   (  )       ");
+		arm();
+		arm();
+		System.out.println("       \\  \\    \\\\|||||||//    /  /       ");
+		System.out.println("        <  \\       ^^^       /  >           ");
+		System.out.println("         <  \\    __^^^__    /  >            ");
+		System.out.println("          <  \\  /o     o\\  /  >            ");
+		System.out.println("           <    |_______|    >               ");
+		System.out.println("            <   / _____ \\   >                "); 
+		System.out.println("              ^ \\_______/ ^                 ");
+		                 
+		bod();
+		fur();
+		fur();
+		fur();
+		System.out.println("            /       O       \\               ");
+		System.out.println("            )     _____    (");
+		leg();
+		leg();
+		feet();
+		feet();
+		System.out.println("            <><><      ><><>");
+		System.out.println("            ///\\        /\\\\\\");
+		System.out.println("            ...          ...");
+		System.out.println("THIS IS A MONKEY HANGING FROM A BAR!!!");
+		
+		
+		
+		
+		}
+	}
+
+/** THIS IS A MONKEY HANGING FROM A BAR
+ * 
+ */
+	
